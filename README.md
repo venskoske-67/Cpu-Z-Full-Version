@@ -246,4 +246,4 @@ This repository serves as the official landing page for CPU-Z. The software is d
 **Get the most recent version of CPU-Z today!**
 
 ---
-**Last updated:** 2026-09-15 17:22:05 UTC
+**Last updated:** 2026-09-15 20:33:15 UTC
